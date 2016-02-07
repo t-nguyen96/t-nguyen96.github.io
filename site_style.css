@@ -15,25 +15,30 @@ body {
 }
 #name {
     height: 30px;
-    width: 210px;
+    width: 180px;
     font-size: 17pt;
+    font-weight: 300;
     color: white;
     margin: auto;
-    margin-left: 9%;
+    margin-left: 12%;
     margin-top: 24%;
-    margin-right: 20%;    
+    margin-right: 20%;
+    position: relative;
+    top: 8px;    
     padding: 2px;
     background-color: rgba(000,000,000,0.50);
 }
 #tagline {
-    height: 20px;
-    width: 410px;
+    height: 23px;
+    width: 370px;
     position: relative;
-    margin-left: 30%;
+    margin-left: 33%;
     bottom: -75px;   
     padding: 2px;
-    font-size: 13pt;
+    font-size: 14pt;
+    font-weight: 300;
     background-color: rgba(000,000,000,0.70);
+
 }
 .linkpos {
     height: 60px;
@@ -67,11 +72,11 @@ body {
     width: 100px;
 }
 #photo {
-    width: 175px;
+    width: 180px;
     height: auto;
     margin: auto;
     position: relative;
-    bottom: 195px;
+    bottom: 205px;
 }
 #bioblock {
     margin: 15%;
