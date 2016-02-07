@@ -1,5 +1,6 @@
 body {
-    background-image: url;
+    background-image: url("nyclights.jpg");
+    background-size: cover;
 }
 .center {
     text-align: center;
@@ -9,39 +10,54 @@ body {
     height: 35px;
     width: 250px;
     font-size: 20pt;
+    color: white;
     margin: auto;
     margin-left: 10%;
     margin-top: 23%;
     margin-right: 20px;
 }
-.links {
+#tagline {
+    position: relative;
+    bottom: -85px;
+    color: white;
+}
+.linkpos {
     height: 60px;
     width: 90px;
     margin: auto;
     margin-left: 75%;
     position: relative;
-    bottom: 250px;
+    bottom: 300px;
 
+}
+.linkformat {
+    text-decoration: none;
+    color: white;
+    border: solid;
+    border-width: 3px;
+    padding: 7px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 #resume {
     position: relative;
-    top: -10px;
+    top: -20px;
     height: 30px;
     width: 40px;
-    text-decoration: none;
+
 }
-#bio {
+#bio {    
     position: relative;
-    top: 30px;
+    margin-top: 10px;
+    top: 40px;
     height: 30px;
-    width: 40px;
-    text-decoration: none;
+    width: 100px;
 }
 #photo {
     width: 175px;
     height: auto;
     margin: auto;
     position: relative;
-    top: -125px;
+    top: -175px;
 }
   
