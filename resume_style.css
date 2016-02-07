@@ -1,0 +1,65 @@
+body {
+    background-image: url("nyclights.jpg");
+    background-size: cover;
+}
+#resumepaper {
+	background-color: #EBE4DC;
+	opacity: .90;
+	width: 930px;
+	margin: auto;
+	border-radius: 7px;
+	letter-spacing: .005em;
+	font-family: Georgia;
+}
+#email {
+	font-weight: 300;
+	font-size: 14pt;
+	position: relative;
+	top: -1px;
+}
+#eduyears {
+	position: relative;
+	left: 430px;
+	font-size: 11pt;
+}
+.topinfo {
+	text-align: center;
+	font-size: 15pt;
+	position: relative;
+	top: 10px;
+}
+#intimealign {
+	position: relative;
+	left: 310px;
+}
+#raalign {
+	position: relative;
+	left: 219px;
+}
+#mesalign {
+	position: relative;
+	left: 216px;
+}
+#awesomealign {
+	position: relative;
+	left: 320px;
+}
+#in-housealign {
+	position: relative;
+	left: 121px;
+}
+.leftalign {
+	position: relative;
+	left: 30px;
+}
+.maintitle {
+	font-size: 13pt;
+}
+.subtitle {
+	font-size: 11pt;
+	position: relative;
+	left: 40px;
+}
+.resinfo {
+	font-size: 11pt;
+}

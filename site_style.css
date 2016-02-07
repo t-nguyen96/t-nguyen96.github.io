@@ -5,13 +5,14 @@ body {
 .center {
     text-align: center;
     font-family: Georgia;
-
+}
 }
 .roundbord {
     color: white;
     border: solid;
     border-width: 2px;
-    border-radius: 5px;
+    border-radius: 7px;
+    opacity: .93;
 }
 #name {
     height: 30px;
