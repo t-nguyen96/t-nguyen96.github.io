@@ -5,6 +5,7 @@ body {
 .center {
     text-align: center;
     font-family: Georgia;
+
 }
 #name {
     height: 35px;
@@ -12,14 +13,27 @@ body {
     font-size: 20pt;
     color: white;
     margin: auto;
-    margin-left: 10%;
+    margin-left: 7%;
     margin-top: 23%;
     margin-right: 20px;
+    color: white;
+    border: solid;
+    border-width: 3px;
+    padding: 2px;
+    background-color: rgba(200,200,200,0.50);
 }
 #tagline {
+    height: 25px;
+    width: 470px;
     position: relative;
-    bottom: -85px;
+    margin-left: 27%;
+    bottom: -75px;
     color: white;
+    border: solid;
+    border-width: 3px;
+    padding: 2px;
+    font-size: 15pt;
+    background-color: rgba(200,200,200,0.70);
 }
 .linkpos {
     height: 60px;
@@ -33,6 +47,8 @@ body {
 .linkformat {
     text-decoration: none;
     color: white;
+    font-size: 15pt;
+    background: rgba(200,200,200,0.55);
     border: solid;
     border-width: 3px;
     padding: 7px;
@@ -44,12 +60,11 @@ body {
     top: -20px;
     height: 30px;
     width: 40px;
-
 }
 #bio {    
     position: relative;
     margin-top: 10px;
-    top: 40px;
+    top: 20px;
     height: 30px;
     width: 100px;
 }
@@ -58,6 +73,7 @@ body {
     height: auto;
     margin: auto;
     position: relative;
-    top: -175px;
+    bottom: 185px;
 }
+
   
