@@ -6,11 +6,11 @@ body {
     text-align: center;
     font-family: Georgia;
 }
-}
+
 .roundbord {
     color: white;
     border: solid;
-    border-width: 2px;
+    border-width: 1px;
     border-radius: 7px;
     opacity: .93;
 }
