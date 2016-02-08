@@ -89,7 +89,7 @@ body {
     bottom: 200px;
     right: 10px;
     left: 10px;
-    animation: fadein 1s;
+    animation: fadein 1.5s;
 }
 #bioblock {
     margin: 15%;
