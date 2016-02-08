@@ -30,23 +30,23 @@ body {
 }
 #intimealign {
 	position: relative;
-	left: 310px;
+	left: 345px;
 }
 #raalign {
 	position: relative;
-	left: 219px;
+	left: 251px;
 }
 #mesalign {
 	position: relative;
-	left: 216px;
+	left: 242px;
 }
 #awesomealign {
 	position: relative;
-	left: 320px;
+	left: 342px;
 }
 #in-housealign {
 	position: relative;
-	left: 121px;
+	left: 162px;
 }
 .leftalign {
 	position: relative;
@@ -62,4 +62,7 @@ body {
 }
 .resinfo {
 	font-size: 11pt;
+}
+#activities {
+	padding-bottom: 5%;
 }

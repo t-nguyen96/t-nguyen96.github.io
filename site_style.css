@@ -21,19 +21,21 @@ body {
     font-weight: 300;
     color: white;
     margin: auto;
-    margin-left: 12%;
+    margin-left: 13%;
     margin-top: 24%;
     margin-right: 20%;
     position: relative;
-    top: 8px;    
+    top: 6px;    
     padding: 2px;
     background-color: rgba(000,000,000,0.50);
 }
 #tagline {
+    text-align: center;
     height: 23px;
     width: 370px;
     position: relative;
-    margin-left: 33%;
+    margin-left: 34%;
+    margin-right: 34%;
     bottom: -75px;   
     padding: 2px;
     font-size: 14pt;
@@ -78,10 +80,12 @@ body {
     margin: auto;
     position: relative;
     bottom: 205px;
+    right: 10px;
+    left: 10px;
 }
 #bioblock {
     margin: 15%;
-    background-color: rgba(000,000,000,0.80);
+    background-color: rgba(000,000,000,0.85);
     padding: 2%;
 }
 #biotext {
@@ -95,6 +99,13 @@ body {
     position: relative;
     top: -10px;
     letter-spacing: 1px;
+}
+.loctext {
+    font-weight: 300;
+}
+.postext {
+    font-weight: 300;
+    font-style: italic;
 }
 
   
