@@ -34,6 +34,7 @@ body {
     top: 6px;    
     padding: 2px;
     background-color: rgba(000,000,000,0.70);
+    animation: fadein 3.5s;
 }
 #tagline {
     text-align: center;
@@ -47,7 +48,7 @@ body {
     font-size: 14pt;
     font-weight: 300;
     background-color: rgba(000,000,000,0.80);
-
+    animation: fadein 3.5s;
 }
 .linkpos {
     height: 60px;
@@ -56,7 +57,7 @@ body {
     margin-left: 75%;
     position: relative;
     bottom: 300px;
-
+    animation: fadein 3.5s;
 }
 .linkformat {
     text-decoration: none;
