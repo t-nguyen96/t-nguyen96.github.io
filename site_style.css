@@ -60,10 +60,14 @@ body {
     text-decoration: none;
     color: white;
     font-size: 13pt;
-    background: rgba(200,200,200,0.70);
+    background: rgba(000,000,000,0.70);
     padding: 7px;
     padding-top: 3px;
     padding-bottom: 3px;
+}
+.linkformat:hover {
+    transition: .2s ease-in;
+    background: rgba(200,200,200,0.70);
 }
 #resume {
     position: relative;
