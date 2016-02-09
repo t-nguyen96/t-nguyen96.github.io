@@ -5,8 +5,6 @@
 body {
     background-image: url("nyclights.jpg");
     background-size: cover;
-    
-
 }
 .center {
     text-align: center;
@@ -64,6 +62,7 @@ body {
     padding: 7px;
     padding-top: 3px;
     padding-bottom: 3px;
+    transition: .2s ease-in;
 }
 .linkformat:hover {
     transition: .2s ease-in;
