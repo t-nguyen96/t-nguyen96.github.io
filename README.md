@@ -8,7 +8,7 @@ looks relatively finished.
 Non-functional: Weird formatting issues whenwindow gets small. Name 
 runs into the photo.
 
-Thank you to Liam Brady, Nathan Foster, Anjana Gupta, Lauren Dieker, 
-and Daniel Navon for moral support.
+Thank you to my friends for letting me bounce design ideas off them.
+Thank you to 7themes.com for providing the background image.
 
-Hours spent: 6 hours
+Hours spent: 4 hours
