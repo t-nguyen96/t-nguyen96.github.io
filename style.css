@@ -11,7 +11,9 @@
 .blk_txt {
   color: white;
   font: 300% 'Poiret One';
-  font-weight: 700; }
+  font-weight: 700; 
+text-shadow: 0px 0px 8px rgba(0,0,0,0.6);
+}
 
 #banner {
   background: url("losangeles.jpg") 0px -290px;
