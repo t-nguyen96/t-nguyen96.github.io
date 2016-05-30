@@ -13,21 +13,19 @@ body {
   padding-bottom: 10%; }
 
 .header-text {
-  padding-right: 25%;
-  padding-left: 25%; }
+}
 
 #fb_icon {
   padding-top: 10%;
-  padding-left: 100%; }
+  }
 
 #twit_icon {
   padding-top: 10%;
-  padding-left: 58%;
-  padding-right: 30%; }
+}
 
 #in_icon {
-  padding-left: 143%;
-  padding-top: 25%; }
+  padding-left: 65%;
+  padding-top: 40%; }
 
 .blk_txt {
   color: white;
@@ -39,8 +37,17 @@ body {
   background: url("losangeles.jpg") 0px -290px;
   background-size: cover;
   padding-top: 4%;
+  height: 540px;
   background-repeat: no-repeat; }
-
+.header-text {
+  font-size: 21pt;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.6)
+}
+a {
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
 
 /*# sourceMappingURL=style.css.map */
